@@ -25,5 +25,5 @@
 ## Requisitos Não Funcionais
 
 * [Hardware & Software](requisitos-nao-funcionais/hardware-and-software/README.md)
-  * [NF 001 - Navegador Web](requisitos-nao-funcionais/hardware-and-software/nf-001-navegador-web.md)
-  * [NF 002 - Conexão à Internet](requisitos-nao-funcionais/hardware-and-software/nf-002-conexao-a-internet.md)
+  * [NF001 - Navegador Web](requisitos-nao-funcionais/hardware-and-software/nf001-navegador-web.md)
+  * [NF002 - Conexão à Internet](requisitos-nao-funcionais/hardware-and-software/nf002-conexao-a-internet.md)
