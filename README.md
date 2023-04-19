@@ -26,3 +26,22 @@ Para estabelecer a prioridade dos requisitos foram adotadas as denominações �
 * Importante é o requisito sem o qual o sistema entra em funcionamento, mas de forma não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o sistema poderá ser implantado e usado mesmo assim.
 * Desejável é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada.
 
+## Descrição Geral do Sistema
+
+Candy possui o objetivo de auxiliar uma doceria caseira à ser mais eficiente em suas vendas e mais precisas em seus relatórios, auxiliando o controle de estoques e a comunicação cliente-doceria.
+
+Afim de alcançar este objetivo o software deverá permitir a gerência de produtos e seus respectivos estoques, assim como a venda online destes produtos para os clientes, é desejável que tal venda aconteça utilizando _bots_ da plataforma de comunicação 'WhatsApp Business'.
+
+### Descrição dos Usuários
+
+#### Cozinheiro
+
+Os cozinheiros são os donos do negócio, também são os responsáveis pela manufaturação dos doces, desse modo, suas principais interações com o sistema são no tocante do catálogo de doces.
+
+#### Cliente
+
+Os clientes são as pessoas que desejam comprar algum produto, desejam que a sua experiência de pedido seja a mais fluída possível.
+
+#### Entregador
+
+Os entregadores são os responsáveis pela a entrega dos pedidos, possuem então a necessidade de visualizar os pedidos em andamento e os endereços atribuídos à eles.
