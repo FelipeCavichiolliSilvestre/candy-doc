@@ -2,8 +2,8 @@
 
 Em uma atualização de estoque há dois motivos principais para a ação:&#x20;
 
-* Uma recontagem foi feita e o estoque diferiu do esperado
-* Um produto atingiu sua data de validade
+* Uma recontagem foi feita e o estoque diferiu do esperado.
+* Um produto atingiu sua data de validade.
 
 Ambos motivos necessitam ser especificados, já que possuem implicações diferentes ao negócio.
 
@@ -15,30 +15,30 @@ Ambos motivos necessitam ser especificados, já que possuem implicações difere
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* ID do produto
-* Motivo
-* Estoque
+* ID do produto.
+* Motivo.
+* Estoque.
 
 ## Pré Condições
 
-* Produto deve existir
+* Produto deve existir.
 * Usuário deve estar _logado_.
 
 ## Saídas
 
-* ID do produto
-* Estoque
+* ID do produto.
+* Estoque.
 
 ## Pós Condições
 
-* Estoque será atualizado no sistema
-* Caso estoque caia para 0, esconde o produto no catálogo do WhatsApp
+* Estoque será atualizado no sistema.
+* Caso estoque caia para 0, esconde o produto no catálogo do WhatsApp.
 
 ## Fluxo de Eventos Principal
 

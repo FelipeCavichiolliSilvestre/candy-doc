@@ -8,35 +8,35 @@
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* ID do produto
-* Nome do produto (opcional)
-* Descrição do produto (opcional)
-* Fotos do produto (opcional)
-* Unidades/Medida (opcional)
+* ID do produto.
+* Nome do produto (opcional).
+* Descrição do produto (opcional).
+* Fotos do produto (opcional).
+* Unidades/Medida (opcional).
 
 ## Pré Condições
 
-* Produto deve existir
+* Produto deve existir.
 * Um produto com mesmo nome não deve estar cadastrado.
 * Usuário deve estar _logado_.
 
 ## Saídas
 
-* ID do produto
-* Nome do produto
-* Descrição do produto
-* Fotos do produto
+* ID do produto.
+* Nome do produto.
+* Descrição do produto.
+* Fotos do produto.
 
 ## Pós Condições
 
 * Produto será atualizado no sistema.
-* Produto será atualizado no catálogo do WhatsApp Business
+* Produto será atualizado no catálogo do WhatsApp Business.
 
 ## Fluxo de Eventos Principal
 

@@ -8,13 +8,13 @@
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* Página
+* Página.
 
 ## Pré Condições
 
@@ -25,13 +25,13 @@
 
 Uma lista com itens contendo:
 
-* ID do produto
-* Nome do produto
-* Descrição do produto
-* Fotos do produto
-* Preço
-* Estoque
-* Unidades/Medida
+* ID do produto.
+* Nome do produto.
+* Descrição do produto.
+* Fotos do produto.
+* Preço.
+* Estoque.
+* Unidades/Medida.
 
 ## Pós Condições
 

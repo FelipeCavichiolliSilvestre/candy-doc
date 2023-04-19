@@ -10,30 +10,30 @@ Durante a atualização de preço é importante armazenar o histórico de tal mu
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* ID do produto
-* Preço
+* ID do produto.
+* Preço.
 
 ## Pré Condições
 
-* Produto deve existir
+* Produto deve existir.
 * Usuário deve estar _logado_.
 * Usuário deve estar conectado à internet.
 
 ## Saídas
 
-* ID do produto
-* Preço
+* ID do produto.
+* Preço.
 
 ## Pós Condições
 
-* Preço será atualizado no sistema
-* Preço será atualizado no catálogo do WhatsApp business
+* Preço será atualizado no sistema.
+* Preço será atualizado no catálogo do WhatsApp business.
 
 ## Fluxo de Eventos Principal
 

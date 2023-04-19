@@ -1,4 +1,4 @@
-# RF203 - Confirmar pedidos simples
+# RF203 - Rejeitar pedido simples
 
 ### Atores
 
@@ -8,30 +8,30 @@
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [ ] Essencial.
+* [x] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
 Entradas:
 
-* ID do pedido
-* Tempo estimado de entrega
+* ID do pedido.
+* Motivo da rejeição.
 
 ## Pré Condições
 
-* Pedido deve existir
+* Pedido deve existir e estar pendente.
 * Usuário deve estar _logado_.
 * Usuário deve estar conectado à internet.
 
 ## Saídas
 
-Não há saídas
+Não há saídas.
 
 ## Pós Condições
 
-* Estado do pedido no sistema será alterado
+* Estado do pedido no sistema será alterado.
 
 ## Fluxo de Eventos Principal
 

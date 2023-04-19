@@ -8,33 +8,33 @@
 
 ### Prioridade
 
-* [ ] Essencial
-* [ ] Importante
-* [x] Desejável
+* [ ] Essencial.
+* [ ] Importante.
+* [x] Desejável.
 
 ## Entradas
 
-* ID do funcionário
-* Nome (Opcional)
-* Senha (Opcional)
-* Função (Cozinheiro, Entregador; Opcional)
+* ID do funcionário.
+* Nome (Opcional).
+* Senha (Opcional).
+* Função (Cozinheiro, Entregador; Opcional).
 
 ## Pré Condições
 
-* Funcionário deve existir
+* Funcionário deve existir.
 * Um funcionário com mesmo nome não deve estar cadastrado.
 * Usuário deve estar _logado_.
 * Usuário deve estar conectado à internet.
 
 ## Saídas
 
-* ID do usuário
-* Nome
-* Função
+* ID do usuário.
+* Nome.
+* Função.
 
 ## Pós Condições
 
-* Funcionário será atualizado no sistema
+* Funcionário será atualizado no sistema.
 
 ## Fluxo de Eventos Principal
 

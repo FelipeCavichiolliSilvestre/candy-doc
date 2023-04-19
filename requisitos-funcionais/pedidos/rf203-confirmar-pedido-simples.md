@@ -1,4 +1,4 @@
-# RF203 - Confirmar pedidos simples
+# RF203 - Confirmar pedido simples
 
 ### Atores
 
@@ -8,20 +8,20 @@
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
 Entradas:
 
-* ID do pedido
-* Tempo estimado de entrega
+* ID do pedido.
+* Tempo estimado de entrega.
 
 ## Pré Condições
 
-* Pedido deve existir
+* Pedido deve existir e estar pendente.
 * Usuário deve estar _logado_.
 * Usuário deve estar conectado à internet.
 
@@ -31,7 +31,7 @@ Não há saídas
 
 ## Pós Condições
 
-* Estado do pedido no sistema será alterado
+* Estado do pedido no sistema será alterado.
 
 ## Fluxo de Eventos Principal
 

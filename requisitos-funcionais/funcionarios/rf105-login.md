@@ -8,16 +8,16 @@
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
 Entradas:
 
-* Nome do funcionário
-* Senha
+* Nome do funcionário.
+* Senha.
 
 ## Pré Condições
 
@@ -25,10 +25,10 @@ Entradas:
 
 ## Saídas
 
-* ID do funcionário
-* Nome
-* Função
-* JWT (Json Web Token)
+* ID do funcionário.
+* Nome.
+* Função.
+* JWT (Json Web Token).
 
 ## Pós Condições
 

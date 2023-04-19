@@ -8,15 +8,15 @@
 
 ### Prioridade
 
-* [ ] Essencial
-* [x] Importante
-* [ ] Desejável
+* [ ] Essencial.
+* [x] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* Nome
-* Senha
-* Função (Cozinheiro, Entregador)
+* Nome.
+* Senha.
+* Função (Cozinheiro, Entregador).
 
 ## Pré Condições
 
@@ -26,13 +26,13 @@
 
 ## Saídas
 
-* ID do funcionário
-* Nome
-* Função
+* ID do funcionário.
+* Nome.
+* Função.
 
 ## Pós Condições
 
-* Funcionário será cadastrado no sistema
+* Funcionário será cadastrado no sistema.
 
 ## Fluxo de Eventos Principal
 

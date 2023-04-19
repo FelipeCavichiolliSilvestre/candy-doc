@@ -19,8 +19,8 @@
 * [Pedidos](requisitos-funcionais/pedidos/README.md)
   * [RF201 - Realizar pedido simples](requisitos-funcionais/pedidos/rf201-realizar-pedido-simples.md)
   * [RF202 - Iniciar pedido sob demanda](requisitos-funcionais/pedidos/rf202-iniciar-pedido-sob-demanda.md)
-  * [RF203 - Confirmar pedidos simples](requisitos-funcionais/pedidos/rf203-confirmar-pedidos-simples.md)
-  * [RF203 - Confirmar pedidos simples](requisitos-funcionais/pedidos/rf203-confirmar-pedidos-simples-1.md)
+  * [RF203 - Confirmar pedido simples](requisitos-funcionais/pedidos/rf203-confirmar-pedido-simples.md)
+  * [RF203 - Rejeitar pedido simples](requisitos-funcionais/pedidos/rf203-rejeitar-pedido-simples.md)
 
 ## Requisitos Não Funcionais
 

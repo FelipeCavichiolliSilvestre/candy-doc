@@ -8,18 +8,18 @@
 
 ### Prioridade
 
-* [x] Essencial
-* [ ] Importante
-* [ ] Desejável
+* [x] Essencial.
+* [ ] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* Nome do produto
-* Descrição do produto (opcional)
-* Fotos do produto
-* Preço
-* Estoque
-* Unidades/Medida
+* Nome do produto.
+* Descrição do produto (opcional).
+* Fotos do produto.
+* Preço.
+* Estoque.
+* Unidades/Medida.
 
 ## Pré Condições
 
@@ -28,18 +28,18 @@
 
 ## Saídas
 
-* ID do produto
-* Nome do produto
-* Descrição do produto
-* Fotos do produto
-* Preço
-* Estoque
-* Unidades/Medida
+* ID do produto.
+* Nome do produto.
+* Descrição do produto.
+* Fotos do produto.
+* Preço.
+* Estoque.
+* Unidades/Medida.
 
 ## Pós Condições
 
 * Produto será cadastrado no sistema.
-* Produto será cadastrado no catálogo do WhatsApp Business
+* Produto será cadastrado no catálogo do WhatsApp Business.
 
 ## Fluxo de Eventos Principal
 

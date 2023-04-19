@@ -8,17 +8,17 @@
 
 ### Prioridade
 
-* [ ] Essencial
-* [x] Importante
-* [ ] Desejável
+* [ ] Essencial.
+* [x] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* ID do funcionário
+* ID do funcionário.
 
 ## Pré Condições
 
-* Funcionário deve existir
+* Funcionário deve existir.
 * Usuário deve estar _logado_.
 * Usuário deve estar conectado à internet.
 

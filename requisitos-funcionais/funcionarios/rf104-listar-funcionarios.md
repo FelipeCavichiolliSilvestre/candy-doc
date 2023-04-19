@@ -8,13 +8,13 @@
 
 ### Prioridade
 
-* [ ] Essencial
-* [x] Importante
-* [ ] Desejável
+* [ ] Essencial.
+* [x] Importante.
+* [ ] Desejável.
 
 ## Entradas
 
-* Página
+* Página.
 
 ## Pré Condições
 
@@ -25,9 +25,9 @@
 
 Uma lista com itens contendo:
 
-* ID do funcionário
-* Nome do funcionário
-* Função do funcionário
+* ID do funcionário.
+* Nome do funcionário.
+* Função do funcionário.
 
 ## Pós Condições
 
