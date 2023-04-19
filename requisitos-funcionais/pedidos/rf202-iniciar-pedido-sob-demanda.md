@@ -14,9 +14,9 @@ description: >-
 
 ### Prioridade
 
-* [x] Essencial.
-* [ ] Importante.
-* [ ] Desejável.
+* [x] Essencial
+* [ ] Importante
+* [ ] Desejável
 
 ## Entradas
 

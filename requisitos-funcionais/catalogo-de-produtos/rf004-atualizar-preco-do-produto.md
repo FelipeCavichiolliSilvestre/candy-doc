@@ -10,9 +10,9 @@ Durante a atualização de preço é importante armazenar o histórico de tal mu
 
 ### Prioridade
 
-* [x] Essencial.
-* [ ] Importante.
-* [ ] Desejável.
+* [x] Essencial
+* [ ] Importante
+* [ ] Desejável
 
 ## Entradas
 

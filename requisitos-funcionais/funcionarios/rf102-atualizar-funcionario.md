@@ -8,9 +8,9 @@
 
 ### Prioridade
 
-* [ ] Essencial.
-* [ ] Importante.
-* [x] Desejável.
+* [ ] Essencial
+* [ ] Importante
+* [x] Desejável
 
 ## Entradas
 

@@ -15,9 +15,9 @@ Ambos motivos necessitam ser especificados, já que possuem implicações difere
 
 ### Prioridade
 
-* [x] Essencial.
-* [ ] Importante.
-* [ ] Desejável.
+* [x] Essencial
+* [ ] Importante
+* [ ] Desejável
 
 ## Entradas
 
