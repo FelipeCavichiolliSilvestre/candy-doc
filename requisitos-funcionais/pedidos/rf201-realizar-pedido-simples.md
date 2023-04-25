@@ -20,8 +20,6 @@ description: >-
 
 ## Entradas
 
-Entradas:
-
 * .
 
 ## Pré Condições

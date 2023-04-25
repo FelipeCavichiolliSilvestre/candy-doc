@@ -1,20 +1,18 @@
-# RF203 - Rejeitar pedido simples
+# RF205 - Listar Pedidos
 
 ### Atores
 
-* [ ] Cozinheiro
+* [x] Cozinheiro
 * [x] Entregador
 * [ ] Cliente
 
 ### Prioridade
 
-* [ ] Essencial
-* [x] Importante
+* [x] Essencial
+* [ ] Importante
 * [ ] Desejável
 
 ## Entradas
-
-Entradas:
 
 * ID do pedido.
 * Motivo da rejeição.
