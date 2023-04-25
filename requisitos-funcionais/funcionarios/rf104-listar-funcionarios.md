@@ -35,7 +35,7 @@ Não há pós condições.
 
 ## Fluxo de Eventos Principal
 
-Usuário selecionará a listagem de uncionários, uma tabela contendo as informação relevantes dos produtos será exibida.
+Usuário selecionará a listagem de funcionários, uma tabela contendo os dados especificados em [Saídas](#saídas) será exibida.
 
 ## Fluxo de Eventos Secundários
 
