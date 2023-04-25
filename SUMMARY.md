@@ -21,7 +21,7 @@
   * [RF202 - Iniciar pedido sob demanda](requisitos-funcionais/pedidos/rf202-iniciar-pedido-sob-demanda.md)
   * [RF203 - Confirmar pedido simples](requisitos-funcionais/pedidos/rf203-confirmar-pedido-simples.md)
   * [RF204 - Rejeitar pedido simples](requisitos-funcionais/pedidos/rf204-rejeitar-pedido-simples.md)
-  * [RF205 - Listar Pedidos Pendentes](requisitos-funcionais/pedidos/rf205-listar-pedidos-pendentes.md)
+  * [RF205 - Listar Pedidos](requisitos-funcionais/pedidos/rf205-listar-pedidos.md)
 
 ## Requisitos Não Funcionais
 

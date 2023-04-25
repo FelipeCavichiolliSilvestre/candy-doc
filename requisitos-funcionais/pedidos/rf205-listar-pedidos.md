@@ -1,4 +1,4 @@
-# RF205 - Listar Pedidos Pendentes
+# RF205 - Listar Pedidos
 
 ### Atores
 
@@ -15,6 +15,8 @@
 ## Entradas
 
 * Página.
+* Data do pedido (opcional).
+* Estado do pedido (opcional).
 
 ## Pré Condições
 
@@ -29,6 +31,7 @@ Uma lista com itens contendo:
 * Nome/número do cliente.
 * Destino.
 * Produtos comprados.
+* Preço total.
 * Estado.
 
 ## Pós Condições
@@ -43,4 +46,4 @@ Usuário selecionará a listagem de pedidos, uma tabela contendo os dados especi
 
 ### Fluxo Secundário 1
 
-Caso não haja nenhum pedido pendente, uma mensagem será exibida no lugar da tabela.&#x20;
+Caso não haja nenhum pedido com as propriedades estipuladas em [Entradas](#entradas), uma mensagem será exibida no lugar da tabela.&#x20;
