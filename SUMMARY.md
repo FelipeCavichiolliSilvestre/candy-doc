@@ -22,6 +22,8 @@
   * [RF203 - Confirmar pedido simples](requisitos-funcionais/pedidos/rf203-confirmar-pedido-simples.md)
   * [RF204 - Rejeitar pedido simples](requisitos-funcionais/pedidos/rf204-rejeitar-pedido-simples.md)
   * [RF205 - Listar Pedidos](requisitos-funcionais/pedidos/rf205-listar-pedidos.md)
+* [Relatórios](requisitos-funcionais/relatorios/README.md)
+  * [RF301 - Relatório de Vendas](requisitos-funcionais/relatorios/rf301-relatorio-de-vendas.md)
 
 ## Requisitos Não Funcionais
 
